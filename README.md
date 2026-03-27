@@ -1,6 +1,6 @@
-# salesagent
+# Servio WhatsApp Sales Agent
 
-An AI-powered WhatsApp sales agent system prompt — ready to deploy on Claude, GPT-4/5, or any LLM that accepts a system prompt.
+An AI-powered WhatsApp sales agent system prompt for **Servio** — the WhatsApp assistant for restaurant owners. Ready to deploy on Claude, GPT-4/5, or any LLM that accepts a system prompt.
 
 ## Quick Start
 
@@ -13,14 +13,14 @@ An AI-powered WhatsApp sales agent system prompt — ready to deploy on Claude, 
 
 | File | Description |
 |---|---|
-| `system_prompt.md` | Complete, ready-to-use system prompt for the AI sales agent |
+| `system_prompt.md` | Complete, ready-to-use system prompt for the Servio AI sales agent |
 
 ## Features
 
-- **Human-like persuasion** — reads context, objections, and micro-behaviours dynamically
-- **Product mastery** — full product context, pricing, benefits, and real proof stories
-- **Full sales flow** — curiosity → discovery → demo → micro-commitments → close
-- **Objection handling** — reasoning-level strategies for every common objection
-- **Multilingual** — auto-detects and responds in Arabic, English, French, Spanish, and more
+- **Restaurant-specialist persona** — speaks the language of margins, covers, service, and suppliers
+- **Servio product mastery** — full product context (€79/month, WhatsApp-only, revenue + expense + profit tracking), proof stories, and differentiators
+- **Full sales flow** — curiosity → discovery → demo → micro-commitments → 7-day trial → close → post-close
+- **Objection handling** — reasoning-level strategies for every common objection (spreadsheets, past app failures, price, trust, busy, etc.)
+- **Multilingual** — auto-detects and responds in Arabic (with dialect awareness), French, English, and more
 - **Smart handoff** — knows exactly when to escalate to a human agent
 - **Dynamic reasoning** — thinks 1–2 steps ahead and adapts to every conversation
